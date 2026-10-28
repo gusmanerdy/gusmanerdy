@@ -22,15 +22,3 @@ Exploring code, building useful tools, and learning by doing.
 | 🐍 **Python** | Useful scripts, automation, and experiments with data |
 | 🟢 **Node.js & JavaScript** | Web tools, APIs, and backend development |
 | ⚙️ **Automation** | Making repetitive tasks simpler with small, practical tools |
-
-### 🌱 Always learning
-
-I enjoy trying new ideas, understanding how things work, and improving one project at a time.
-
-Feel free to explore my repositories. Thanks for stopping by! ✨
-
-<div align="center">
-
-**Stay curious · Start small · Keep building**
-
-</div>
